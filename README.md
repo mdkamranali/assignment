@@ -1,4 +1,4 @@
-#clone the repository using "git clone https://github.com/sathvik125/TableAssignment.git"
+
 # "npm i" to install all packages required
 
 ### `npm start` to start the react-app
